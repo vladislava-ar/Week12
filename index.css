@@ -1,0 +1,11 @@
+.cover {
+    border: 1px solid black;
+    width: 15vw;
+    height: 25vh;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
