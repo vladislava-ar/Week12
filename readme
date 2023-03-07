@@ -27,7 +27,7 @@ Math.round()
 
 6. Как сгенерировать случайное число от 1 до 100? 
 
-Math.round(Math.random()*100)
+Math.round(Math.random()*101)
 
 7. Что выведет в консоль?
 
